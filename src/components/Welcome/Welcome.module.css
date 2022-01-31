@@ -1,0 +1,19 @@
+.Welcome {
+    font-size: 12px;
+    display: inline-flex;   
+    width: 100%;                                  
+    background-color: rgba(8,94,154,255);
+  }
+.Welcome > p {
+    color: white;
+    width: 33%;
+    margin: 0;
+}
+
+p.web{
+    text-align: center;
+}
+
+p.d {
+    text-align: right;
+}
